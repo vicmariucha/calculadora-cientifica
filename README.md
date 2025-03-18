@@ -7,8 +7,6 @@ A **Calculadora científica** é uma aplicação web construída em **React** e 
 
 ![Interface da calculadora](https://cdn.discordapp.com/attachments/1089566799714078840/1351636664316858369/image.png?ex=67db193c&is=67d9c7bc&hm=ba3d6037c6abfacf44d9b147722df937cebd8cce7a3963894485981383cb1fcb&)
 
-
-
 ## 📌 Funcionalidades
 
 - **Funções trigonométricas**: seno, cosseno, tangente e suas versões inversas.
@@ -17,6 +15,7 @@ A **Calculadora científica** é uma aplicação web construída em **React** e 
 - **Raiz quadrada**: cálculo de raiz quadrada de números positivos.
 - **Conversão de unidades**: algumas funcionalidades de conversão de unidades matemáticas.
 - **Interface intuitiva e responsiva** para facilitar o uso em diferentes dispositivos.
+- **Temas**: tema claro e escuro para se adaptar a preferência do usuário.
 
 ## 🛠️ Tecnologias utilizadas
 
