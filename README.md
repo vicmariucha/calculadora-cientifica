@@ -5,7 +5,7 @@ A **Calculadora científica** é uma aplicação web construída em **React** e 
 💻🌐 **Acesse a aplicação online:**  
 🔗 [Calculadora científica no vercel](https://calculadora-cientifica-seven.vercel.app/)
 
-![Interface da calculadora](https://cdn.discordapp.com/attachments/1089566799714078840/1351636664316858369/image.png?ex=67db193c&is=67d9c7bc&hm=ba3d6037c6abfacf44d9b147722df937cebd8cce7a3963894485981383cb1fcb&)
+![Interface da calculadora](https://cdn.discordapp.com/attachments/1089566799714078840/1351636664316858369/image.png?ex=67f81a3c&is=67f6c8bc&hm=28fc7d5b7bb34df2a9b775556dcd1e14d6fb317627e506a887b80bd96d47e3fd&)
 
 ## 📌 Funcionalidades
 
